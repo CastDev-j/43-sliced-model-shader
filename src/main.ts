@@ -16,7 +16,7 @@ import slicedFragmentShader from "./shaders/sliced/fragment.glsl";
 
 const gui = new GUI({ width: 340 });
 
-const debugObject = {};
+// const debugObject = {};
 
 /**
  * Set up scene
